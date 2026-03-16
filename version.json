@@ -1,11 +1,15 @@
 {
   "version": "1.0.0",
-  "notes": "Beta release.",
+  "notes": "Beta release \u2014 Mac available now. Windows + ChromeOS building via CI.",
   "mac": {
     "url": "https://gofile.io/d/0OWQF2",
     "md5": "b972f94b367aad7bec745b34cd1a853f"
   },
   "windows": {
+    "url": "",
+    "md5": ""
+  },
+  "chromeos": {
     "url": "",
     "md5": ""
   }
