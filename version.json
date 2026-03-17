@@ -8,5 +8,9 @@
   "windows": {
     "url": "",
     "md5": ""
+  },
+  "chromeos": {
+    "url": "https://gofile.io/d/WvFLY7",
+    "md5": "31bf668de3d029f01bb2519ae9f15739"
   }
 }
