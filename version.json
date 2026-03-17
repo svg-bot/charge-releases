@@ -1,16 +1,12 @@
 {
-  "version": "1.0.0",
-  "notes": "Beta release \u2014 Mac available now. Windows + ChromeOS building via CI.",
+  "version": "1.0.1",
+  "notes": "Fix headless Chrome crash on relaunch, MarqueeTicker crash, AI empty response error, updater version comparison",
   "mac": {
-    "url": "https://gofile.io/d/0OWQF2",
-    "md5": "b972f94b367aad7bec745b34cd1a853f"
+    "url": "https://gofile.io/d/zh0ocH",
+    "md5": "c47580277430d338345b711137dd4015"
   },
   "windows": {
-    "url": "https://gofile.io/d/3JI6Ua",
-    "md5": "5e43fbfb8129e18a74a16273e2cd33fc"
-  },
-  "chromeos": {
-    "url": "https://gofile.io/d/aS3usr",
-    "md5": "a2a61e666c6a40b16ab7615116d54645"
+    "url": "",
+    "md5": ""
   }
 }
