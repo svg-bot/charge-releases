@@ -1,9 +1,9 @@
 {
-  "version": "1.0.5",
-  "notes": "Bug fixes: credential status indicators, DeepSeek/Grok key validation, database stability, college LMS accuracy",
+  "version": "1.0.6",
+  "notes": "Code cleanup: removed dead import, strengthened bundle hidden-imports, fixed college duplicate entry",
   "mac": {
-    "url": "https://github.com/svg-bot/charge-releases/releases/download/v1.0.5/Charge-001-macOS.dmg",
-    "md5": "d5266ccefd74d69b2f7a8e6864809f9e"
+    "url": "https://github.com/svg-bot/charge-releases/releases/download/v1.0.6/Charge-001-macOS.dmg",
+    "md5": "e60c16980564a63c2e4cf1337871e445"
   },
   "windows": {
     "url": "https://gofile.io/d/iI4SnZ",
