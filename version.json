@@ -1,9 +1,9 @@
 {
-  "version": "1.0.6",
-  "notes": "Code cleanup: removed dead import, strengthened bundle hidden-imports, fixed college duplicate entry",
+  "version": "1.0.7",
+  "notes": "Bug fixes: exception capture in admin portal, password field stripping, college LMS data corrections",
   "mac": {
-    "url": "https://github.com/svg-bot/charge-releases/releases/download/v1.0.6/Charge-001-macOS.dmg",
-    "md5": "e60c16980564a63c2e4cf1337871e445"
+    "url": "https://github.com/svg-bot/charge-releases/releases/download/v1.0.7/Charge-001-macOS.dmg",
+    "md5": "d1f6c1ef47b28e8b16370ee1c1cf2692"
   },
   "windows": {
     "url": "https://gofile.io/d/iI4SnZ",
