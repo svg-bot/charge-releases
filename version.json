@@ -1,9 +1,9 @@
 {
-  "version": "1.0.2",
-  "notes": "v1.0.2: animations, Chrome 146 fix, permanent download links, bug fixes",
+  "version": "1.0.3",
+  "notes": "Bug fixes: animations, Chrome 146 compat, permanent download links, race condition fixes",
   "mac": {
-    "url": "https://github.com/svg-bot/charge-releases/releases/download/v1.0.2/Charge-001-macOS.dmg",
-    "md5": "6a1acb797e5b0d72ffc17cec723c95f0"
+    "url": "https://github.com/svg-bot/charge-releases/releases/download/v1.0.3/Charge-001-macOS.dmg",
+    "md5": "1bf4797dded369805e6da579824bf223"
   },
   "windows": {
     "url": "https://gofile.io/d/iI4SnZ",
