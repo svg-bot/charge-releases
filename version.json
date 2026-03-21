@@ -1,9 +1,9 @@
 {
-  "version": "1.1.1",
-  "notes": "Fix splash animation, piece-by-piece Google Classroom injection, completed assignment tracking, fake assignment filtering",
+  "version": "1.1.2",
+  "notes": "Add DeltaMath interactive solver, Edpuzzle video watcher, completed assignment tracking, fix all prior bugs",
   "mac": {
-    "url": "https://github.com/svg-bot/charge-releases/releases/download/v1.1.1/Charge-001-macOS.dmg",
-    "md5": "a3056b8f588073a0175bb459504fe4ee"
+    "url": "https://github.com/svg-bot/charge-releases/releases/download/v1.1.2/Charge-001-macOS.dmg",
+    "md5": "c43e72e6ecaddc2b16618f6d78eabd93"
   },
   "windows": {
     "url": "https://gofile.io/d/Shc4pS",
