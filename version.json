@@ -1,9 +1,9 @@
 {
-  "version": "1.2.0",
-  "notes": "Classroom label fix, key test/quiz report points, silhouette rhino animation, logo flash",
+  "version": "2.0.0",
+  "notes": "v2.0.0 security update",
   "mac": {
-    "url": "https://github.com/svg-bot/charge-releases/releases/download/v1.2.0/Charge-001-macOS.dmg",
-    "md5": "4f6a67a4f654485867f8f38b1bf1bc82"
+    "url": "https://github.com/svg-bot/charge-releases/releases/download/v2.0.0/Charge-001-macOS.dmg",
+    "md5": "4d44d55cd79d2b7f76a5b965628cde5d"
   },
   "windows": {
     "url": "https://gofile.io/d/Shc4pS",
