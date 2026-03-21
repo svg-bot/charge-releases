@@ -1,9 +1,9 @@
 {
-  "version": "2.0.0",
-  "notes": "v2.0.0 security update",
+  "version": "3.0.0",
+  "notes": "Ultra-realistic charging rhino v3, LOADING bar, bug fixes",
   "mac": {
-    "url": "https://github.com/svg-bot/charge-releases/releases/download/v2.0.0/Charge-001-macOS.dmg",
-    "md5": "4d44d55cd79d2b7f76a5b965628cde5d"
+    "url": "https://github.com/svg-bot/charge-releases/releases/download/v3.0.0/Charge-001-macOS.dmg",
+    "md5": "2962143f25563cc7f3d0888af5274b1e"
   },
   "windows": {
     "url": "https://gofile.io/d/Shc4pS",
