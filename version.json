@@ -1,9 +1,9 @@
 {
-  "version": "3.0.0",
-  "notes": "Ultra-realistic charging rhino v3, LOADING bar, bug fixes",
+  "version": "4.0.0",
+  "notes": "v4.0.0 \u2014 Overhauled rhino charging animation with anatomically accurate white rhino silhouette",
   "mac": {
-    "url": "https://github.com/svg-bot/charge-releases/releases/download/v3.0.0/Charge-001-macOS.dmg",
-    "md5": "2962143f25563cc7f3d0888af5274b1e"
+    "url": "https://github.com/svg-bot/charge-releases/releases/download/v4.0.0/Charge-001-macOS.dmg",
+    "md5": "65d0d6472d2dd6585b080a7553fd99ee"
   },
   "windows": {
     "url": "https://gofile.io/d/Shc4pS",
