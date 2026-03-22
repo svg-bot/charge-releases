@@ -1,9 +1,9 @@
 {
-  "version": "4.0.0",
-  "notes": "v4.0.0 \u2014 Overhauled rhino charging animation with anatomically accurate white rhino silhouette",
+  "version": "5.0.0",
+  "notes": "v5.0.0 \u2014 classroom integration, multi-platform automation, AI quality engine improvements",
   "mac": {
-    "url": "https://github.com/svg-bot/charge-releases/releases/download/v4.0.0/Charge-001-macOS.dmg",
-    "md5": "65d0d6472d2dd6585b080a7553fd99ee"
+    "url": "https://github.com/svg-bot/charge-releases/releases/download/v5.0.0/Charge-001-macOS.dmg",
+    "md5": "0ff03231af198f734f1de6bfd3de1555"
   },
   "windows": {
     "url": "https://github.com/svg-bot/charge-releases/releases/download/v4.0.0/Charge-001.exe",
