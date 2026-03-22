@@ -1,9 +1,9 @@
 {
-  "version": "5.0.0",
-  "notes": "v5.0.0 \u2014 classroom integration, multi-platform automation, AI quality engine improvements",
+  "version": "6.0.0",
+  "notes": "v6.0.0 \u2014 hyper-realistic rhino: 4-frame gallop, body bob, acceleration, layered dust cloud, ground shadow",
   "mac": {
-    "url": "https://github.com/svg-bot/charge-releases/releases/download/v5.0.0/Charge-001-macOS.dmg",
-    "md5": "0ff03231af198f734f1de6bfd3de1555"
+    "url": "https://github.com/svg-bot/charge-releases/releases/download/v6.0.0/Charge-001-macOS.dmg",
+    "md5": "29968344318f47e69018e3a36dd74b41"
   },
   "windows": {
     "url": "https://github.com/svg-bot/charge-releases/releases/download/v5.0.0/Charge-001.exe",
