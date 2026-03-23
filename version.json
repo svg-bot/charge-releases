@@ -1,9 +1,9 @@
 {
-  "version": "6.0.0",
-  "notes": "v6.0.0 \u2014 hyper-realistic rhino: 4-frame gallop, body bob, acceleration, layered dust cloud, ground shadow",
+  "version": "10.0.0",
+  "notes": "v10.0.0 \u2014 major platform update with improved AI engine, multi-platform automation, and stability fixes",
   "mac": {
-    "url": "https://github.com/svg-bot/charge-releases/releases/download/v6.0.0/Charge-001-macOS.dmg",
-    "md5": "29968344318f47e69018e3a36dd74b41"
+    "url": "https://github.com/svg-bot/charge-releases/releases/download/v10.0.0/Charge-001-macOS.dmg",
+    "md5": "b2bfb540e7efdfbc4bb065fd9012b022"
   },
   "windows": {
     "url": "https://github.com/svg-bot/charge-releases/releases/download/v6.0.0/Charge-001.exe",
