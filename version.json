@@ -1,9 +1,9 @@
 {
-  "version": "12.0.3",
-  "notes": "v12.0.3 \u2014 hyper-realistic rhino: multi-layer shading, grey skin, tan horns, dark hooves, nostril, far-side legs",
+  "version": "13.0.0",
+  "notes": "Realistic rhino charging silhouette animation + fixed 3-tier intro sequence",
   "mac": {
-    "url": "https://github.com/svg-bot/charge-releases/releases/download/v12.0.3/Charge-001-macOS.dmg",
-    "md5": "31b7e815aebe9917cdfd35429792ce4e"
+    "url": "https://github.com/svg-bot/charge-releases/releases/download/v13.0.0/Charge-001-macOS.dmg",
+    "md5": "2c6cbfb799682c1dab95d4904d2b4eeb"
   },
   "windows": {
     "url": "https://github.com/svg-bot/charge-releases/releases/download/v12.0.3/Charge-001.exe",
