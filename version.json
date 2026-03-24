@@ -1,9 +1,9 @@
 {
-  "version": "13.0.1",
-  "notes": "Cinematic rhino animation with 3D shading + glitch-out in white",
+  "version": "13.0.2",
+  "notes": "Pixar-style rhino animation; fixed double @staticmethod bug; fixed dispatch default handler",
   "mac": {
-    "url": "https://github.com/svg-bot/charge-releases/releases/download/v13.0.1/Charge-001-macOS.dmg",
-    "md5": "9076e843da04c0891e52ef5875998094"
+    "url": "https://github.com/svg-bot/charge-releases/releases/download/v13.0.2/Charge-001-macOS.dmg",
+    "md5": "5e4f301a6c6d765ba4537383d8289f23"
   },
   "windows": {
     "url": "https://github.com/svg-bot/charge-releases/releases/download/v13.0.1/Charge-001.exe",
