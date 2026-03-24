@@ -1,9 +1,9 @@
 {
-  "version": "13.0.3",
-  "notes": "Anti-piracy protection + Pixar rhino loading animation",
+  "version": "13.0.4",
+  "notes": "Pixar python snake intro + anti-piracy protection",
   "mac": {
-    "url": "https://github.com/svg-bot/charge-releases/releases/download/v13.0.3/Charge-001-macOS.dmg",
-    "md5": "c9bd10d2d626782d3917f45f74ce878b"
+    "url": "https://github.com/svg-bot/charge-releases/releases/download/v13.0.4/Charge-001-macOS.dmg",
+    "md5": "4df8713b110e009fd6ead92c8dece199"
   },
   "windows": {
     "url": "https://github.com/svg-bot/charge-releases/releases/download/v13.0.2/Charge-001.exe",
