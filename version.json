@@ -1,9 +1,9 @@
 {
-  "version": "13.0.0",
-  "notes": "Realistic rhino charging silhouette animation + fixed 3-tier intro sequence",
+  "version": "13.0.1",
+  "notes": "Cinematic rhino animation with 3D shading + glitch-out in white",
   "mac": {
-    "url": "https://github.com/svg-bot/charge-releases/releases/download/v13.0.0/Charge-001-macOS.dmg",
-    "md5": "2c6cbfb799682c1dab95d4904d2b4eeb"
+    "url": "https://github.com/svg-bot/charge-releases/releases/download/v13.0.1/Charge-001-macOS.dmg",
+    "md5": "9076e843da04c0891e52ef5875998094"
   },
   "windows": {
     "url": "https://github.com/svg-bot/charge-releases/releases/download/v13.0.0/Charge-001.exe",
