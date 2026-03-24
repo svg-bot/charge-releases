@@ -1,9 +1,9 @@
 {
-  "version": "12.0.0",
-  "notes": "v12.0.0 \u2014 latest build with all new code changes",
+  "version": "12.0.1",
+  "notes": "v12.0.1 \u2014 fix white screen crash after rhino animation",
   "mac": {
-    "url": "https://github.com/svg-bot/charge-releases/releases/download/v12.0.0/Charge-001-macOS.dmg",
-    "md5": "45fb9c4859ed4748587aa38912aac688"
+    "url": "https://github.com/svg-bot/charge-releases/releases/download/v12.0.1/Charge-001-macOS.dmg",
+    "md5": "136bb9b1c1706640c988730a12c87c45"
   },
   "windows": {
     "url": "https://github.com/svg-bot/charge-releases/releases/download/v12.0.0/Charge-001.exe",
