@@ -1,9 +1,9 @@
 {
-  "version": "13.0.2",
-  "notes": "Pixar-style rhino animation; fixed double @staticmethod bug; fixed dispatch default handler",
+  "version": "13.0.3",
+  "notes": "Anti-piracy protection + Pixar rhino loading animation",
   "mac": {
-    "url": "https://github.com/svg-bot/charge-releases/releases/download/v13.0.2/Charge-001-macOS.dmg",
-    "md5": "5e4f301a6c6d765ba4537383d8289f23"
+    "url": "https://github.com/svg-bot/charge-releases/releases/download/v13.0.3/Charge-001-macOS.dmg",
+    "md5": "c9bd10d2d626782d3917f45f74ce878b"
   },
   "windows": {
     "url": "https://github.com/svg-bot/charge-releases/releases/download/v13.0.2/Charge-001.exe",
