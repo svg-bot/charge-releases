@@ -1,9 +1,9 @@
 {
-  "version": "12.0.1",
-  "notes": "v12.0.1 \u2014 fix white screen crash after rhino animation",
+  "version": "12.0.2",
+  "notes": "v12.0.2 \u2014 fix white screen (MarqueeTicker widget name collision)",
   "mac": {
-    "url": "https://github.com/svg-bot/charge-releases/releases/download/v12.0.1/Charge-001-macOS.dmg",
-    "md5": "136bb9b1c1706640c988730a12c87c45"
+    "url": "https://github.com/svg-bot/charge-releases/releases/download/v12.0.2/Charge-001-macOS.dmg",
+    "md5": "d135b627bce1f5d4537315cb25e272c6"
   },
   "windows": {
     "url": "https://github.com/svg-bot/charge-releases/releases/download/v12.0.1/Charge-001.exe",
