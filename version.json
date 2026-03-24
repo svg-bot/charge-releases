@@ -1,9 +1,9 @@
 {
-  "version": "12.0.2",
-  "notes": "v12.0.2 \u2014 fix white screen (MarqueeTicker widget name collision)",
+  "version": "12.0.3",
+  "notes": "v12.0.3 \u2014 hyper-realistic rhino: multi-layer shading, grey skin, tan horns, dark hooves, nostril, far-side legs",
   "mac": {
-    "url": "https://github.com/svg-bot/charge-releases/releases/download/v12.0.2/Charge-001-macOS.dmg",
-    "md5": "d135b627bce1f5d4537315cb25e272c6"
+    "url": "https://github.com/svg-bot/charge-releases/releases/download/v12.0.3/Charge-001-macOS.dmg",
+    "md5": "31b7e815aebe9917cdfd35429792ce4e"
   },
   "windows": {
     "url": "https://github.com/svg-bot/charge-releases/releases/download/v12.0.2/Charge-001.exe",
