@@ -1,9 +1,9 @@
 {
-  "version": "1.0.0",
-  "notes": "v1.0.0 \u2014 Splash screen quotes added, block cursor removed, all platform links unified",
+  "version": "12.0.0",
+  "notes": "v12.0 \u2014 Google Classroom section-aware assignment pull (Assigned: no due date, this week, next week, later / Missing: this week, last week, earlier), study guide test-block override, Google Classroom AI training upgrade",
   "mac": {
-    "url": "https://github.com/svg-bot/charge-releases/releases/download/v1.0.0/Charge-001-macOS.dmg",
-    "md5": "eba5b633766c261fa9657a192041d02e"
+    "url": "https://github.com/svg-bot/charge-releases/releases/download/v12.0.0/Charge-001-macOS.dmg",
+    "md5": "15aca2907bfc2170bac05bbfadad37ac"
   },
   "windows": {
     "url": "https://github.com/svg-bot/charge-releases/releases/download/v1.0.0/Charge-001.exe",
