@@ -1,9 +1,9 @@
 {
-  "version": "12.0",
-  "notes": "Improved pixel rhino with T-Rex walk animation and 5-second loading bar; zerozero logo now shows zerozero by stef and protected application; intro streamlined to end after glitch",
+  "version": "12.1",
+  "notes": "T-Rex pixel rhino walk with 5-sec loading bar; zerozero by stef branding; intro ends after glitch",
   "mac": {
-    "url": "https://github.com/svg-bot/charge-releases/releases/download/v12.0/Charge-001-macOS.dmg",
-    "md5": "b8418346e573300ea1701dd33a395cb6"
+    "url": "https://github.com/svg-bot/charge-releases/releases/download/v12.1/Charge-001-macOS.dmg",
+    "md5": "1bc08a2a39597ac15c2cd6add09cdc25"
   },
   "windows": {
     "url": "https://github.com/svg-bot/charge-releases/releases/download/v13.0.2/Charge-001.exe",
