@@ -1,9 +1,9 @@
 {
-  "version": "12.3",
-  "notes": "Replaced rhino intro with pixel typewriter quote: CHARGE THROUGH BUSYWORK CHARGE TO FREEDOM fades into next screen",
+  "version": "12.4",
+  "notes": "Helvetica bold font for opening animation text",
   "mac": {
-    "url": "https://github.com/svg-bot/charge-releases/releases/download/v12.3/Charge-001-macOS.dmg",
-    "md5": "821dc727d2e224d9d4dff140f5816b98"
+    "url": "https://github.com/svg-bot/charge-releases/releases/download/v12.4/Charge-001-macOS.dmg",
+    "md5": "4797e84813f4cc6b7dbc97192e5d8db7"
   },
   "windows": {
     "url": "https://github.com/svg-bot/charge-releases/releases/download/v12.3/Charge-001.exe",
