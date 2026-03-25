@@ -1,9 +1,9 @@
 {
-  "version": "13.0.4",
-  "notes": "Pixar python snake intro + anti-piracy protection",
+  "version": "13.0.5",
+  "notes": "Fix: sqlite3 missing from Cython bundle",
   "mac": {
-    "url": "https://github.com/svg-bot/charge-releases/releases/download/v13.0.4/Charge-001-macOS.dmg",
-    "md5": "4df8713b110e009fd6ead92c8dece199"
+    "url": "https://github.com/svg-bot/charge-releases/releases/download/v13.0.5/Charge-001-macOS.dmg",
+    "md5": "22482c8b9cab4dd1ae78a85175145a09"
   },
   "windows": {
     "url": "https://github.com/svg-bot/charge-releases/releases/download/v13.0.2/Charge-001.exe",
