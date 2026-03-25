@@ -1,9 +1,9 @@
 {
-  "version": "12.1",
-  "notes": "T-Rex pixel rhino walk with 5-sec loading bar; zerozero by stef branding; intro ends after glitch",
+  "version": "12.2",
+  "notes": "Rhino head-only intro; fixed assignment pull deduplication (all platforms now filter completed); safer selection; fixed Windows CI unicode crash; FETCH MORE button after report",
   "mac": {
-    "url": "https://github.com/svg-bot/charge-releases/releases/download/v12.1/Charge-001-macOS.dmg",
-    "md5": "1bc08a2a39597ac15c2cd6add09cdc25"
+    "url": "https://github.com/svg-bot/charge-releases/releases/download/v12.2/Charge-001-macOS.dmg",
+    "md5": "b838ab24ff3f4a17251c50970403c4f2"
   },
   "windows": {
     "url": "https://github.com/svg-bot/charge-releases/releases/download/v13.0.2/Charge-001.exe",
