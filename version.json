@@ -1,9 +1,9 @@
 {
-  "version": "12.4",
-  "notes": "Helvetica bold font for opening animation text",
+  "version": "1.0.0",
+  "notes": "v1.0.0 \u2014 Splash screen quotes added, block cursor removed, all platform links unified",
   "mac": {
-    "url": "https://github.com/svg-bot/charge-releases/releases/download/v12.4/Charge-001-macOS.dmg",
-    "md5": "4797e84813f4cc6b7dbc97192e5d8db7"
+    "url": "https://github.com/svg-bot/charge-releases/releases/download/v1.0.0/Charge-001-macOS.dmg",
+    "md5": "eba5b633766c261fa9657a192041d02e"
   },
   "windows": {
     "url": "https://github.com/svg-bot/charge-releases/releases/download/v12.4/Charge-001.exe",
