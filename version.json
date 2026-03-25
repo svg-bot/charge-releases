@@ -1,9 +1,9 @@
 {
-  "version": "12.2",
-  "notes": "Rhino head-only intro; fixed assignment pull deduplication (all platforms now filter completed); safer selection; fixed Windows CI unicode crash; FETCH MORE button after report",
+  "version": "12.3",
+  "notes": "Replaced rhino intro with pixel typewriter quote: CHARGE THROUGH BUSYWORK CHARGE TO FREEDOM fades into next screen",
   "mac": {
-    "url": "https://github.com/svg-bot/charge-releases/releases/download/v12.2/Charge-001-macOS.dmg",
-    "md5": "b838ab24ff3f4a17251c50970403c4f2"
+    "url": "https://github.com/svg-bot/charge-releases/releases/download/v12.3/Charge-001-macOS.dmg",
+    "md5": "821dc727d2e224d9d4dff140f5816b98"
   },
   "windows": {
     "url": "https://github.com/svg-bot/charge-releases/releases/download/v12.2/Charge-001.exe",
