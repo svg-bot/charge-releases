@@ -1,9 +1,9 @@
 {
   "version": "12.0",
-  "notes": "v12.0: pixel art intro \u2014 white rhino gallop, scatter reassemble, pixel snake",
+  "notes": "Improved pixel rhino with T-Rex walk animation and 5-second loading bar; zerozero logo now shows zerozero by stef and protected application; intro streamlined to end after glitch",
   "mac": {
     "url": "https://github.com/svg-bot/charge-releases/releases/download/v12.0/Charge-001-macOS.dmg",
-    "md5": "917d438739dbf6a82816ec193950329b"
+    "md5": "b8418346e573300ea1701dd33a395cb6"
   },
   "windows": {
     "url": "https://github.com/svg-bot/charge-releases/releases/download/v13.0.2/Charge-001.exe",
