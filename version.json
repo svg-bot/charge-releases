@@ -6,11 +6,11 @@
     "md5": "885032114d8faaf3c9e6c1c4a43e4227"
   },
   "windows": {
-    "url": "https://github.com/svg-bot/charge-releases/releases/download/v12.0.0/Charge-001.exe",
+    "url": "https://github.com/svg-bot/charge-releases/releases/download/v12.5.0/Charge-001.exe",
     "md5": ""
   },
   "chromeos": {
-    "url": "https://github.com/svg-bot/charge-releases/releases/download/v12.0.0/Charge-001-ChromeOS.zip",
+    "url": "https://github.com/svg-bot/charge-releases/releases/download/v12.5.0/Charge-001-ChromeOS.zip",
     "md5": ""
   }
 }
