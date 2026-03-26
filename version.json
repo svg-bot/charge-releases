@@ -1,9 +1,9 @@
 {
-  "version": "12.0.0",
-  "notes": "v12.0 \u2014 Google Classroom section-aware assignment pull (Assigned: no due date, this week, next week, later / Missing: this week, last week, earlier), study guide test-block override, Google Classroom AI training upgrade",
+  "version": "12.5.0",
+  "notes": "Fix Google Classroom login (account chooser + password field), fix DeltaMath domain change, fix assignment count (27 assignments now correctly found with proper titles), fix SSL verification, fix shell injection in client link tool",
   "mac": {
-    "url": "https://github.com/svg-bot/charge-releases/releases/download/v12.0.0/Charge-001-macOS.dmg",
-    "md5": "15aca2907bfc2170bac05bbfadad37ac"
+    "url": "https://github.com/svg-bot/charge-releases/releases/download/v12.5.0/Charge-001-macOS.dmg",
+    "md5": "885032114d8faaf3c9e6c1c4a43e4227"
   },
   "windows": {
     "url": "https://github.com/svg-bot/charge-releases/releases/download/v12.0.0/Charge-001.exe",
