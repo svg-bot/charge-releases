@@ -1,9 +1,9 @@
 {
   "version": "13.0.0",
-  "notes": "AI training system, thread safety improvements, Gemini 2.0, routing and compatibility fixes",
+  "notes": "AI training system, thread safety, Gemini 2.0, routing and compatibility fixes",
   "mac": {
     "url": "https://github.com/svg-bot/charge-releases/releases/download/v13.0.0/Charge-001-macOS.dmg",
-    "md5": "fd4b773b4acc143f130b265c05fef004"
+    "md5": "b1502d338cf81d61c406eaf66f910f33"
   },
   "windows": {
     "url": "https://github.com/svg-bot/charge-releases/releases/download/v13.0.0/Charge-001.exe",
